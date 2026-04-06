@@ -62,7 +62,7 @@ export default function Contact() {
           <div className="mt-6 space-y-4 text-gray-700">
             <div>
               <p className="font-semibold">Téléphone</p>
-              <p className="text-sm sm:text-base">+221 78 296 43 86</p>
+              <p className="text-sm sm:text-base">+221 77 8790 90 74</p>
             </div>
 
             <div>
