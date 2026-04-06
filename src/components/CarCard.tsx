@@ -55,7 +55,7 @@ export default function CarCard({
 
         <div className="mb-4 grid grid-cols-2 gap-2 text-sm text-gray-600">
           <p>Places : {car.seats}</p>
-          <p>Boîte : {car.transmission}</p>
+          <p>Boite : {car.transmission}</p>
           <p>Carburant : {car.fuel}</p>
           <p className="font-semibold text-orange-600">
             {isLocation && car.pricePerDay
